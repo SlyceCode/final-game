@@ -1,0 +1,3 @@
+C:\Users\anton\OneDrive\Escritorio\UPCTrabajoFinal\final-game\finalGame\finalGame\x64\Debug\finalGame.vcxproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Escritorio\UPCTrabajoFinal\final-game\finalGame\finalGame\x64\Debug\finalGame.menu.resources
+C:\Users\anton\OneDrive\Escritorio\UPCTrabajoFinal\final-game\finalGame\finalGame\x64\Debug\finalGame.vcxproj.GenerateResource.cache

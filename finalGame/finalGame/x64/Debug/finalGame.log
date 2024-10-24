@@ -1,0 +1,6 @@
+﻿  menu.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+C:\Users\anton\OneDrive\Escritorio\UPCTrabajoFinal\final-game\finalGame\finalGame\menu.cpp(5,6): warning C4829: Parámetros posiblemente incorrectos para la función main. Utilice 'int main(Platform::Array<Platform::String^>^ argv)'
+  Generando código...
+  menu.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  finalGame.vcxproj -> C:\Users\anton\OneDrive\Escritorio\UPCTrabajoFinal\final-game\finalGame\x64\Debug\finalGame.exe
