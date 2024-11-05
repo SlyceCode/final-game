@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Personaje.h(47,53): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Personaje.h(47,41): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Personaje.h(56,80): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Personaje.h(56,68): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Controladora.h(237,21): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Controladora.h(242,18): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\Controladora.h(247,22): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "MyForm.cpp")
+  
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Project9.vcxproj -> C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\x64\Debug\Project9.exe

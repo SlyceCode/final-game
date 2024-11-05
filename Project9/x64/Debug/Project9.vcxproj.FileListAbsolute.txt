@@ -1,0 +1,3 @@
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\x64\Debug\Project9.vcxproj.AssemblyReference.cache
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\x64\Debug\Project9.MyForm.resources
+C:\VENTANAOBJETIVAC++\LLPRACTICES\BEFORE_RETO\Project9\Project9\x64\Debug\Project9.vcxproj.GenerateResource.cache
